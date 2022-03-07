@@ -1,9 +1,9 @@
 # Hi, I'm Raven 👋
 
-## I love to code. I am a learner in Tech. I am focusing on building Front-End projects.
+## I love to code, learn new things, and build Front-End projects.
 
 -  I’m currently learning HTML and CSS
--  2022 Goals: Collaborate with other people to build real-world projects. Front-End and Back-End web development skills.
+-  2022 Goals: Full-Stack Web Development skills. Collaborate with other people.
 -  Fun fact: I love to play story-driven video games.
 
 ### Connect with me:
