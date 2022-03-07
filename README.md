@@ -13,12 +13,6 @@
 
 [![website](./img/twitter-light.svg)](https://twitter.com/raveneliette#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/raveneliette#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.frontendmentor.io/profile/raveneliette#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.frontendmentor.io/profile/raveneliette#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.freecodecamp.org/raveneliette#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.freecodecamp.org/raveneliette#gh-dark-mode-only)
 
 <br />
 
