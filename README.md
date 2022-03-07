@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-dark.svg)](https://twitter.com/raveneliette#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/raveneliette#gh-light-mode-only)
 
 ### Languages and Tools:
 
