@@ -11,8 +11,6 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/raveneliette#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/raveneliette#gh-dark-mode-only)
 
----
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -24,8 +22,6 @@
 
 <br />
 <br />
-
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveneliette&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
