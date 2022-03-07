@@ -1,4 +1,4 @@
-# Hi, I'm Raven 🧙
+# Hi, I'm Raven 👋
 
 ## I love to code, learn new things, and build Front-End projects.
 
