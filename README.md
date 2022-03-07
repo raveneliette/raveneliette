@@ -2,7 +2,7 @@
 
 ## I love to code, learn new things, and build Front-End projects.
 
--  📚 I’m currently learning HTML and CSS
+-  📚 I’m currently learning CSS
 -  🚀 2022 Goals: Full-Stack Web Development skills. Collaborate with other people.
 -  💡 Fun fact: I love to play story-driven video games.
 
