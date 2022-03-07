@@ -9,7 +9,8 @@
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/raveneliette#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/raveneliette#gh-dark-mode-only30)4
+[![website](./img/twitter-dark.svg)](https://twitter.com/raveneliette#gh-dark-mode-only30)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
