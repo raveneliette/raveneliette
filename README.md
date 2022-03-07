@@ -23,8 +23,6 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveneliette&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [Twitter]: https://twitter.com/raveneliette
 [FreeCodeCamp]: https://www.freecodecamp.org/raveneliette
 [Front-end Mentor]: https://www.frontendmentor.io/profile/raveneliette
