@@ -3,7 +3,7 @@
 ## I love to code. I am a learner in Tech. I am focusing on building Front-End projects.
 
 -  I’m currently learning HTML and CSS
--  2022 Goals: Collaborate with other people to build projects. Front-End and Back-End web development skills.
+-  2022 Goals: Collaborate with other people to build real-world projects. Front-End and Back-End web development skills.
 -  Fun fact: I love to play story-driven video games.
 
 ### Connect with me:
