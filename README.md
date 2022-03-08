@@ -11,7 +11,7 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/raveneliette#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/raveneliette#gh-dark-mode-only30)
 
-### Languages and Tools:
+### Languages and Tools I use:
 
 <img align="left" alt="HTML5" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
