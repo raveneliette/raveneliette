@@ -2,9 +2,9 @@
 
 ## I love to code, learn new things, and build Front-End projects.
 
-📚 I’m currently learning Sass<br />
-🚀 2022 Goals: Full-Stack Web Development skills. Collaborate with other people.<br />
-💡 Fun fact: I love to play story-driven video games.
+- 📚 I’m currently learning Sass
+- 🚀 2022 Goals: Full-Stack Web Development skills. Collaborate with other people.
+- 💡 Fun fact: I love to play story-driven video games.
 
 ### Languages and Tools I use:
 
