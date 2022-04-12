@@ -1,10 +1,10 @@
 # Hi, I'm Raven 👋
 
-## I love to code, learn new things, and build Front-End projects.
+## I love to code, learn new things, and build projects.
 
-- 📚 I’m currently learning Sass
-- 🚀 2022 Goals: Looking forward to becoming a Full-Stack Developer. Collaborate with other people.
-- 💡 Fun fact: I love to play story-driven video games.
+- 📚 I’m currently learning Sass and CSS Animations
+- 🚀 Looking forward to becoming a Full-Stack Developer and collaborating with other people
+- 💡 I'm a Minecraft veteran
 
 ### Languages and Tools I use:
 
