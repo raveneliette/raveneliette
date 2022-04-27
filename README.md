@@ -4,7 +4,7 @@
 
 - 📚 I’m currently learning Sass and CSS Animations
 - 🚀 Looking forward to becoming a Full-Stack Developer and collaborating with other people
-- 💡 I'm a Minecraft veteran
+- 💡 Gamer
 
 ### Languages and Tools I use:
 
